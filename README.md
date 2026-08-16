@@ -6,6 +6,8 @@
 <a href="https://tryhackme.com/p/y2tanishq619">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
+<a href="mailto:y2tanishq619@gmail.com"> 
+<img src="https://img.shields.io/badge/Email-y2tanishq619%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 ## About Me
 
