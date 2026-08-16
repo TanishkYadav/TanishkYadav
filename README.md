@@ -50,8 +50,8 @@ Looking to start my career as a **SOC Analyst L1**, with a focus on SIEM monitor
 
 | Certificate | Details |
 |---|---|
-| [SOC Level 1](certificates/THM-LZHDYHGJJS.pdf) | TryHackMe — 65h 29m |
-| [Cyber Security 101](certificates/THM-0IUDVWUWRH.pdf) | TryHackMe — 45h 23m |
+| [SOC Level 1](THM-LZHDYHGJJS.pdf) | TryHackMe — 65h 29m |
+| [Cyber Security 101](THM-0IUDVWUWRH.pdf) | TryHackMe — 45h 23m |
 
 ## Projects
 
