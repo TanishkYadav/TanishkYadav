@@ -43,8 +43,8 @@ Looking to start my career as a **SOC Analyst L1**, with a focus on SIEM monitor
 
 ### TryHackMe
 
-- **SOC Level 1** — Completed August 2026
-- **Cyber Security 101** — Completed December 2025
+- **SOC Level 1** — Completed 2026
+- **Cyber Security 101** — Completed  2025
 
 ## Certificates
 
